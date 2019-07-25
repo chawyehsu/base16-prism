@@ -1,5 +1,5 @@
 /**
- * prism-themes-base16 (https://github.com/h404bi/prism-themes-base16)
+ * base16-prism (https://github.com/h404bi/base16-prism)
  * @license MIT
  *
  * prism.js Black Metal (Marduk) theme for JavaScript, CSS and HTML
@@ -32,12 +32,14 @@ pre[class*="language-"] {
 
 pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
 code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
+    color: inherit;
     text-shadow: none;
     background: #222222; /* base02 */
 }
 
 pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
 code[class*="language-"]::selection, code[class*="language-"] ::selection {
+    color: inherit;
     text-shadow: none;
     background: #222222; /* base02 */
 }
