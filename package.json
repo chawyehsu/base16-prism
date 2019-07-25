@@ -1,9 +1,9 @@
 {
-  "name": "prism-themes-base16",
+  "name": "base16-prism",
   "version": "0.1.0",
   "description": "Base16 for PrismJS",
   "author": "Chawye Hsu <h404bi@gmail.com>",
-  "homepage": "https://github.com/h404bi/prism-themes-base16#readme",
+  "homepage": "https://github.com/h404bi/base16-prism#readme",
   "license": "MIT",
   "files": [
     "themes"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/h404bi/prism-themes-base16"
+    "url": "https://github.com/h404bi/base16-prism"
   },
   "keywords": [
     "themes",

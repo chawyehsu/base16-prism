@@ -1,2 +1,2 @@
-# prism-themes-base16
+# base16-prism
 Base16 for PrismJS
