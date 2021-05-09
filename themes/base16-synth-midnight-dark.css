@@ -1,14 +1,14 @@
 /**
- * base16-prism (https://github.com/h404bi/base16-prism)
+ * base16-prism (https://github.com/chawyehsu/base16-prism)
  * @license MIT
  *
- * prism.js Synth Midnight Dark theme for JavaScript, CSS and HTML
- * @author Michaël Ball (http:&#x2F;&#x2F;github.com&#x2F;michael-ball&#x2F;)
+ * prism.js Synth Midnight Terminal Dark theme for JavaScript, CSS and HTML
+ * @author Michaël Ball (http://github.com/michael-ball/)
  */
 
 code[class*="language-"],
 pre[class*="language-"] {
-    color: #DFDBDF; /* base05 */
+    color: #c1c3c4; /* base05 */
     background: none;
     text-shadow: 0 1px white;
     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
@@ -34,14 +34,14 @@ pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selectio
 code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
     color: inherit;
     text-shadow: none;
-    background: #242424; /* base02 */
+    background: #28292a; /* base02 */
 }
 
 pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
 code[class*="language-"]::selection, code[class*="language-"] ::selection {
     color: inherit;
     text-shadow: none;
-    background: #242424; /* base02 */
+    background: #28292a; /* base02 */
 }
 
 @media print {
@@ -60,7 +60,7 @@ pre[class*="language-"] {
 
 :not(pre) > code[class*="language-"],
 pre[class*="language-"] {
-    background: #040404; /* base00 */
+    background: #050608; /* base00 */
 }
 
 /* Inline code */
@@ -73,25 +73,25 @@ pre[class*="language-"] {
 .token.comment,
 .token.prolog,
 .token.cdata {
-    color: #61507A; /* base03 */
+    color: #474849; /* base03 */
 }
 
 .token.entity,
 .language-css .token.string,
 .style .token.string {
-    color: #BFBBBF; /* base04 */
-    background: #141414; /* base01 */
+    color: #a3a5a6; /* base04 */
+    background: #1a1b1c; /* base01 */
 }
 
 .token.punctuation {
-    color: #DFDBDF; /* base05 */
+    color: #c1c3c4; /* base05 */
 }
 
 .token.variable,
 .token.tag,
 .token.operator,
 .token.deleted {
-    color: #B53B50; /* base08 */
+    color: #b53b50; /* base08 */
 }
 
 .token.property,
@@ -99,12 +99,12 @@ pre[class*="language-"] {
 .token.boolean,
 .token.constant,
 .token.url {
-    color: #E4600E; /* base09 */
+    color: #ea770d; /* base09 */
 }
 
 .token.class-name,
 .token.bold {
-    color: #DAE84D; /* base0A */
+    color: #c9d364; /* base0A */
 }
 
 .token.string,
@@ -112,17 +112,17 @@ pre[class*="language-"] {
 .token.attr-value,
 .token.inserted,
 .token.atrule {
-    color:#06EA61; /* base0B */
+    color:#06ea61; /* base0B */
 }
 
 .token.regex,
 .token.important {
-    color: #7CEDE9; /* base0C */
+    color: #42fff9; /* base0C */
 }
 
 .token.function,
 .token.attr-name {
-    color: #03AEFF; /* base0D */
+    color: #03aeff; /* base0D */
 }
 
 .token.keyword,
@@ -130,11 +130,11 @@ pre[class*="language-"] {
 .token.italic,
 .token.char,
 .token.builtin {
-    color: #EA5CE2; /* base0E */
+    color: #ea5ce2; /* base0E */
 }
 
 .token.doctype {
-    color: #9D4D0E; /* base0F */
+    color: #cd6320; /* base0F */
 }
 
 .token.important,

@@ -1,5 +1,5 @@
 /**
- * base16-prism (https://github.com/h404bi/base16-prism)
+ * base16-prism (https://github.com/chawyehsu/base16-prism)
  * @license MIT
  *
  * prism.js Nord theme for JavaScript, CSS and HTML
@@ -91,7 +91,7 @@ pre[class*="language-"] {
 .token.tag,
 .token.operator,
 .token.deleted {
-    color: #88C0D0; /* base08 */
+    color: #BF616A; /* base08 */
 }
 
 .token.property,
@@ -99,12 +99,12 @@ pre[class*="language-"] {
 .token.boolean,
 .token.constant,
 .token.url {
-    color: #81A1C1; /* base09 */
+    color: #D08770; /* base09 */
 }
 
 .token.class-name,
 .token.bold {
-    color: #5E81AC; /* base0A */
+    color: #EBCB8B; /* base0A */
 }
 
 .token.string,
@@ -112,17 +112,17 @@ pre[class*="language-"] {
 .token.attr-value,
 .token.inserted,
 .token.atrule {
-    color:#BF616A; /* base0B */
+    color:#A3BE8C; /* base0B */
 }
 
 .token.regex,
 .token.important {
-    color: #D08770; /* base0C */
+    color: #88C0D0; /* base0C */
 }
 
 .token.function,
 .token.attr-name {
-    color: #EBCB8B; /* base0D */
+    color: #81A1C1; /* base0D */
 }
 
 .token.keyword,
@@ -130,11 +130,11 @@ pre[class*="language-"] {
 .token.italic,
 .token.char,
 .token.builtin {
-    color: #A3BE8C; /* base0E */
+    color: #B48EAD; /* base0E */
 }
 
 .token.doctype {
-    color: #B48EAD; /* base0F */
+    color: #5E81AC; /* base0F */
 }
 
 .token.important,

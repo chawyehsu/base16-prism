@@ -1,14 +1,14 @@
 /**
- * base16-prism (https://github.com/h404bi/base16-prism)
+ * base16-prism (https://github.com/chawyehsu/base16-prism)
  * @license MIT
  *
  * prism.js PaperColor Light theme for JavaScript, CSS and HTML
- * @author Jon Leopard (http:&#x2F;&#x2F;github.com&#x2F;jonleopard) based on PaperColor Theme (https:&#x2F;&#x2F;github.com&#x2F;NLKNguyen&#x2F;papercolor-theme)
+ * @author Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
  */
 
 code[class*="language-"],
 pre[class*="language-"] {
-    color: #878787; /* base05 */
+    color: #444444; /* base05 */
     background: none;
     text-shadow: 0 1px white;
     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
@@ -84,7 +84,7 @@ pre[class*="language-"] {
 }
 
 .token.punctuation {
-    color: #878787; /* base05 */
+    color: #444444; /* base05 */
 }
 
 .token.variable,

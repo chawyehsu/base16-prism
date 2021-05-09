@@ -37,6 +37,6 @@ import 'base16-prism/themes/base16-solarized-dark.css'
 
 ## License
 
-[MIT](LICENSE) © h404bi
+[MIT](LICENSE) © Chawye Hsu
 
-> [Website](https://www.h404bi.com) · GitHub [@h404bi](https://github.com/h404bi) · Twitter [@h404bi](https://twitter.com/h404bi)
+> [Website](https://chawyehsu.com) · GitHub [@chawyehsu](https://github.com/chawyehsu) · Twitter [@chawyehsu](https://twitter.com/chawyehsu)
